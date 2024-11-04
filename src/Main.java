@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Task 1");
-        int age = 18;
+        int age = 17;
         if (age>=18){
             System.out.println("если возраст человека равен " +age +", то он совершеннолетний");
         } else {
@@ -69,9 +69,9 @@ public class Main {
         System.out.println("_______________________________________________________________________");
 
         System.out.println("Task 7");
-        int one = 6;
-        int two = 7;
-        int three = 3;
+        int one = 7;
+        int two = 9;
+        int three = 8;
 
         if (one > two && one>three) {
             System.out.println("самое большое число " + one);
